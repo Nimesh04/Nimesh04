@@ -58,6 +58,6 @@ Graduating in December 2025 with a Bachelor's in IT + Minor in Business Admin fr
 ---
 
 ## 😂 Random Dev Meme
-> “Why did the developer go broke? Because he used up all his cache.” 💸
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 
