@@ -57,7 +57,9 @@ Graduating in December 2025 with a Bachelor's in IT + Minor in Business Admin fr
 
 ---
 
-## 😂 Random Dev Quote
+## ✍️  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
+
+### 👋 ![](https://komarev.com/ghpvc/?username=Nimesh04&color=268f77&label=Hey!!!+Visitor)
 
