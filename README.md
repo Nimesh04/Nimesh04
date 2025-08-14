@@ -57,7 +57,7 @@ Graduating in December 2025 with a Bachelor's in IT + Minor in Business Admin fr
 
 ---
 
-## 😂 Random Dev Meme
+## 😂 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 
