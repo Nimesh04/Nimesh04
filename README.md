@@ -1,8 +1,9 @@
 # 💫 About Me
-Hey there! I'm Nimesh Basnet — a tech enthusiast, AI tinkerer, and occasional bug whisperer.  
-I'm currently a Software Engineer Intern at OpenQQuantify, fine-tuning LLMs with OpenAI API and crafting back-end systems with Flask.  
-When I’m not debugging my code (or my life), I’m either shipping side projects like job trackers and web scrapers, or reworking my dev setup for the 47th time this week.  
-Graduating in December 2025 with a Bachelor's in IT + Minor in Business Admin from MSU Mankato. Let's build cool stuff 🚀
+Hey there! I'm Nimesh Basnet — a tech tinkerer, AI whisperer, and occasional bug wrangler.  
+I’ve shipped real-world projects and tackled production-like systems during my internship at **OpenQQuantify**, fine-tuning LLMs with the OpenAI API and building backend systems with Flask.  
+When I’m not debugging my life alongside my code, I’m building side projects, leveling up my dev setup (again), or exploring ways to make software that actually works in production.  
+Graduated in December 2025 with a Bachelor's in IT + Minor in Business Admin from **MSU Mankato**. Let’s build cool stuff 🚀
+
 
 ---
 
@@ -11,12 +12,14 @@ Graduating in December 2025 with a Bachelor's in IT + Minor in Business Admin fr
 
 ---
 
-## 🧠 Projects at a Glance
-- 🧠 **Quantum Laboratories** – AI-powered quantum research tool using OpenAI and Flask  
-- 🧰 **Infracraft** – Flask-based job orchestration dashboard with live task previews  
-- 📊 **Job Tracker** – CLI app to track 100+ job applications securely  
-- 📚 **Manga Tracker** – Flask + BeautifulSoup app scraping from 10+ manga sites  
-- 🧟 **Dead Walk Defenders** – Unity FPS game with real-time state management and spooky fun
+## 🧠 Production-Ready Projects
+Here’s the stuff that proves I ship products and don’t just tinker:
+
+- 🧪 **Quantum Laboratories** – AI-powered quantum research tool built during my OpenQQuantify internship. Backend with Flask, LLM integrations with OpenAI API, and a production-ready workflow.  
+- 🧰 **Infracraft / Job Runner** – Flask-based job orchestration dashboard with live task previews, thread-safe background workers, and structured logging. Ships reliably, handles chaos, and looks pretty.  
+- 📊 **Job Tracker** – CLI & web app to track 100+ job applications securely, with SQLite database, hashed auth, and efficient CRUD operations.  
+- ☀️ **WeatherApp** – Responsive weather dashboard consuming third-party APIs, modular components, async fetching, and performance-optimized client-side logic.  
+- 🧟 **Dead Walk Defenders** – Unity FPS game with real-time state management, multiplayer mechanics, and spooky fun (because shipping games counts too).
 
 ---
 
